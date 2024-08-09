@@ -8,8 +8,8 @@
 	z-index: 0;
 }
 
-	.footer-agradecimientos,
-	.footer-dedicatoria {
+	.footer-professor,
+	.footer-aluno {
 		font-size: 0.9em;
 		margin: 1em var(--espaciado-normal);
 		color: var(--color-white);
@@ -18,15 +18,15 @@
 		line-height: 3em;
 	}
 
-	.footer-agradecimientos {
+	.footer-professor {
 			height: 2em;
 			vertical-align: middle;
 	}
 
-	.footer-dedicatoria {
+	.footer-aluno {
 		text-align: right;
 	}
-	.footer-dedicatoria a {
+	.footer-aluno a {
 		color: var(--color-white);
 	}
 
