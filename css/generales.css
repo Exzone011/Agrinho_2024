@@ -17,7 +17,7 @@ body {
 body {
 	margin: 0;
 	height: 100vh; /* Garante que o corpo ocupe toda a altura da janela */
-	background-image: url('images/fundo.jpg'); /* caminho para a imagem */
+	background-image: url('/images/fundo.jpg'); /* caminho para a imagem */
 	background-size: cover; /* Faz com que a imagem cubra toda a área do fundo */
 	font-family: system-ui, sans-serif;
 	background-color: var(--color-fondo);
