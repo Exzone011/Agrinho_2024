@@ -10,14 +10,14 @@ html {
 
   
 body {
-	background: url('/images/fundo.jpg') no-repeat center center fixed;
+	background: url('https://revistarpanews.com.br/wp-content/uploads/2020/09/agro.jpg') no-repeat center center fixed;
 	background-size: cover;
   }
 
 body {
 	margin: 0;
 	height: 100vh; /* Garante que o corpo ocupe toda a altura da janela */
-	background-image: url('/images/fundo.jpg'); /* caminho para a imagem */
+	background-image: url('https://revistarpanews.com.br/wp-content/uploads/2020/09/agro.jpg'); /* caminho para a imagem */
 	background-size: cover; /* Faz com que a imagem cubra toda a área do fundo */
 	font-family: system-ui, sans-serif;
 	background-color: var(--color-fondo);
